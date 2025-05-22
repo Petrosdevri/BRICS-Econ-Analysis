@@ -3,7 +3,7 @@
 
 - 📊 In this project, we compare the economic performance of the five main BRICS member states (🇧🇷 Brazil, 🇨🇳 China, 🇮🇳 India, 🇷🇺 Russia, 🇿🇦 South Africa) and identify patterns of convergence.
 - 🧮 The comparison runs from 1990 to 2023, uses Principal Component Analysis (PCA), and covers key economic indicators.
-- 🤝 The project was done together with my friend Jason Kehagias (@JasonKeha).
+- 🤝 The project was done together with my friend Jason Kehagias (<a href='https://github.com/JasonKeha'>@JasonKeha</a>).
 
 <h4>📚 Data Sources</h4>
 
